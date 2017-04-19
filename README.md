@@ -1,2 +1,0 @@
-# E-BANK.app
-application
